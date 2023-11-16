@@ -1,0 +1,4 @@
+Portnap is a simple replacement for the discontinued FreeBSD portsnap,
+acting as convinient git wrapper. For now, it allows you to select the
+directory in which to download the ports tree. And select the branches
+to be fetched.
