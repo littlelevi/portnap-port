@@ -1,5 +1,5 @@
 PORTNAME=       portnap
-DISTVERSION=    0.9.5
+DISTVERSION=    0.9.6
 CATEGORIES=     ports-mgmt
 
 MAINTAINER=	    lukas.ad@posteo.net
@@ -16,7 +16,7 @@ NO_ARCH=        yes
 USE_GITHUB=     yes
 GH_ACCOUNT=     littlelevi
 GH_PROJECT=     portnap
-GH_TAGNAME=     0.9.5
+GH_TAGNAME=     0.9.6
 
 do-install:
 	${INSTALL_SCRIPT} ${WRKSRC}/${PORTNAME} \
